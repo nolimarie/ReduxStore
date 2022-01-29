@@ -1,0 +1,20 @@
+{
+  "name": "reduxstore",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolimarie/ReduxStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nolimarie/ReduxStore/issues"
+  },
+  "homepage": "https://github.com/nolimarie/ReduxStore#readme"
+}
