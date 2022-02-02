@@ -1,4 +1,4 @@
-Redux Store
+# Redux Store
 
 ## User Story
 
